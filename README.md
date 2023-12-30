@@ -1,9 +1,9 @@
-# Project Name
+WebFlake
 
-## Project desc
+A christmas themed website(frontend only)
 
 ## participant info
 
-[Your name](github-profile-urls)
+[Adhil Jahan M B]([-profilgithube-urls](https://github.com/SiMoNRiLeY-141)
 
 > to get started click [here](GETTING_STARTED.md)
