@@ -6,15 +6,16 @@
   "scripts": {
     "start": "node server.js",
     "deploy": "gh-pages -d public"
-},
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.1",
-    "nodemon": "^3.0.2"
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.3.2",
+    "nodemon": "^3.1.14"
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.3.0"
   }
 }
