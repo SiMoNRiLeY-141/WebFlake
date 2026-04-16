@@ -1,6 +1,10 @@
 document.addEventListener("DOMContentLoaded", function () {
   const snowfallContainer = document.getElementById("snowfall");
 
+  if (!snowfallContainer) {
+    return;
+  }
+
   for (let i = 0; i < 50; i++) {
     const snowflake = document.createElement("div");
     snowflake.className = "snowflake";
