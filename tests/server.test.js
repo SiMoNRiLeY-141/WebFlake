@@ -1,5 +1,4 @@
 const request = require("supertest");
-const path = require("path");
 const app = require("../server");
 
 describe("GET /", () => {
